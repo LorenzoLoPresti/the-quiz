@@ -10,11 +10,12 @@ Progetto personale didattico.
 - React
 - Typescript
 - Tailwind
-- Aos
+- Redux & RTK
+- React-router-DOM
 
 ## Descrizione
 
-Semplice front di una landing page, realizzata cercando di seguire l'Atomic design metodology.
+Semplice quiz game in react. L'utente effettua le sue risposte e otterrà un feedback positivo o negativo in base alla risposta. Alla fine potrà accedere a una pagina di risultati e salvare il suo record personale se lo desidera.
 
 ### Start
 
