@@ -1,4 +1,4 @@
-# Tcj-space-landing
+# The Quiz
 
 Progetto personale didattico.
 
@@ -16,6 +16,7 @@ Progetto personale didattico.
 ## Descrizione
 
 Semplice quiz game in react. L'utente effettua le sue risposte e otterrà un feedback positivo o negativo in base alla risposta. Alla fine potrà accedere a una pagina di risultati e salvare il suo record personale se lo desidera.
+Creato cercando di seguire l'Atomic Design Metodology
 
 ### Start
 
